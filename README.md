@@ -11,5 +11,5 @@
 至于Linux什么个编法
 
 本编暂且蒙古
-### 本编在此致歉并奉上其使用CE修改Minecraft的截图
+### 本编在此致歉并奉上其使用CE修改Minecraft的美图
 ![1](https://s3.jpg.cm/2021/10/06/IvupXU.png)
