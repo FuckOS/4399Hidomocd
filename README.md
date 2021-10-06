@@ -32,7 +32,7 @@
 
 <details>
 <summary>至于为何4399Hidomocd使用bat开启Minecraft，本编仍旧蒙古</summary>
-![3](https://s3.jpg.cm/2021/10/06/Ivu4e8.png)
+<img src="https://s3.jpg.cm/2021/10/06/Ivu4e8.png"/>
 </details>
 
 ## 语录
