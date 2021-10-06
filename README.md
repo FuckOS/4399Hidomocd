@@ -21,3 +21,19 @@
 但是还是捕获了其因飞行被服务器踢出的美图
 
 ![2](https://s3.jpg.cm/2021/10/06/IvuvpO.png)
+
+可是伟大的4399Hidomocd还没有放弃！
+
+这就是传说中的毅力！
+
+>“很震惊”
+>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;——猪油煎
+
+<details>
+<summary>至于为何4399Hidomocd使用bat开启Minecraft，本编仍旧蒙古</summary>
+![3](https://s3.jpg.cm/2021/10/06/Ivu4e8.png)
+</details>
+
+## 语录
+- 要不要速通一下
