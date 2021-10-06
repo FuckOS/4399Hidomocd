@@ -3,7 +3,10 @@
 >~~又是一个乐子仓库~~
 
 伟大的 4399Hidomocd(QQ: 40035273) 声称自己可以使用CMD进行Linux的创作
-
+<details>
+<summary>开天辟地头一回</summary>
+<img src="/乐子/账号/开天辟地头一回.jpg"/>
+</details>
 但是很不幸
 
 本编只看到其使用放大镜游玩Minecraft的过程
