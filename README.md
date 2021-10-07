@@ -44,6 +44,6 @@
 
 ## 高雅创作
 <details>
-<summary>雅 (Artist: @493505110 )</summary>
+<summary>雅 (Artist: <a href="https://github.com/493505110">@493505110</a> )</summary>
 <img src="https://user-images.githubusercontent.com/29498336/136317907-a1d911e2-4477-4524-ba7f-7502df11b05a.png"/>
 </details>
