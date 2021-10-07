@@ -2,7 +2,7 @@
 ## 简介
 >~~又是一个乐子仓库~~
 
-伟大的 4399Hidomocd(QQ: 40035273) 声称自己可以使用CMD进行Linux的创作
+伟大的 4399Hidomocd(QQ: 40035273) 声称自己可以使用 CMD 进行 Linux 的创作
 
 <details>
 <summary>开天辟地头一回</summary>
