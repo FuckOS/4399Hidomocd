@@ -2,7 +2,8 @@
 ## 简介
 >~~又是一个乐子仓库~~
 
-伟大的 4399Hidomocd(QQ: 40035273) 声称自己可以使用 CMD 进行 Linux 的创作
+伟大的 4399Hidomocd(QQ: 40035273) 声称自己可以使用CMD进行Linux的创作
+
 <details>
 <summary>开天辟地头一回</summary>
 <img src="/乐子/账号/开天辟地头一回.jpg"/>
@@ -41,3 +42,9 @@
 ## 语录
 - 要不要速通一下
 - [靠，太好笑了](/乐子/账号/官方认证好笑.png)
+
+## 高雅创作
+<details>
+<summary>雅 (Artist: <a href="https://github.com/493505110">@493505110</a> )</summary>
+<img src="https://user-images.githubusercontent.com/29498336/136317907-a1d911e2-4477-4524-ba7f-7502df11b05a.png"/>
+</details>
