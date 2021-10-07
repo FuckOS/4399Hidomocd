@@ -41,3 +41,9 @@
 ## 语录
 - 要不要速通一下
 - [靠，太好笑了](/乐子/账号/官方认证好笑.png)
+
+## 高雅创作
+<details>
+<summary>雅</summary>
+<img src="https://user-images.githubusercontent.com/29498336/136317907-a1d911e2-4477-4524-ba7f-7502df11b05a.png"/>
+</details>
