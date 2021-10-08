@@ -38,6 +38,13 @@
 <img src="https://s3.jpg.cm/2021/10/06/Ivu4e8.png"/>
 </details>
 
+## 本人雅照
+>建议非必要情况下不要观看，否则可能造成心脏起搏器停止工作，心脏骤停，血压升高等风险。
+<details>
+<summary></summary>
+![image](https://user-images.githubusercontent.com/29498336/136314659-4a2d6563-760a-481e-b3db-3158b7916235.jpg)
+</details>
+
 ## 语录
 - 要不要速通一下
 - [靠，太好笑了](/乐子/账号/官方认证好笑.png)
