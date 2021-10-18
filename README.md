@@ -57,3 +57,6 @@
 <summary>雅 (Artist: <a href="https://github.com/493505110">@493505110</a> )</summary>
 <img src="https://user-images.githubusercontent.com/29498336/136317907-a1d911e2-4477-4524-ba7f-7502df11b05a.png"/>
 </details>
+
+## 重写HPDYL OS
+![image](https://user-images.githubusercontent.com/31839741/137738190-919ea422-0bbf-45b6-b08f-cbd06dc18e4b.png)
