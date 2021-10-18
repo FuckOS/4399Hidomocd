@@ -59,4 +59,4 @@
 </details>
 
 ## 重写HPDYL OS
-![image](https://user-images.githubusercontent.com/31839741/137738190-919ea422-0bbf-45b6-b08f-cbd06dc18e4b.png)
+![image](https://user-images.githubusercontent.com/31839741/137738536-b657ce24-3662-4903-8761-1b3b3b11f915.png)
