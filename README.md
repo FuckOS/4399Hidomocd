@@ -4,6 +4,8 @@
 
 伟大的 4399Hidomocd(QQ: 40035273) 声称自己可以使用 CMD 进行 Linux 的创作
 
+2021年10月17日更新：伟大的4399Hidomocd已经被禁言30天，但是各位依然可以到237955684进行互动
+
 <details>
 <summary>开天辟地头一回</summary>
 <img src="/乐子/账号/开天辟地头一回.jpg"/>
@@ -57,3 +59,6 @@
 <summary>雅 (Artist: <a href="https://github.com/493505110">@493505110</a> )</summary>
 <img src="https://user-images.githubusercontent.com/29498336/136317907-a1d911e2-4477-4524-ba7f-7502df11b05a.png"/>
 </details>
+
+## 重写HPDYL OS
+![image](https://user-images.githubusercontent.com/31839741/137738536-b657ce24-3662-4903-8761-1b3b3b11f915.png)
