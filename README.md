@@ -46,7 +46,10 @@
 
 ## 进位制带师
 2022/2/8，Hidomocd 在其 VeliVeli 迫真<del>内鬼</del>交流群中发表了如下的高雅言论
-![image](https://user-images.githubusercontent.com/52315359/152905234-82cdd414-9f6c-4970-bbcb-e3f52f55f93d.jpg)
+<details>
+  <summary>进位制带师</summary>
+<img src="https://user-images.githubusercontent.com/52315359/152905234-82cdd414-9f6c-4970-bbcb-e3f52f55f93d.jpg">
+</details>
 编者表示，既然事二进制代码，为什么还有abcdef。对此，编者表示暂时蒙古。
 
 ## 本人雅照
